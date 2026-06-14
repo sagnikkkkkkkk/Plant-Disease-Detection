@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300">
+  <style>text{font-family:Arial, Helvetica, sans-serif; font-size:14px;}</style>
+  <rect x="20" y="40" width="150" height="50" fill="#cfe8ff" stroke="#2b7bb9"/>
+  <text x="35" y="70">Leaf Image Input</text>
+  <rect x="210" y="40" width="180" height="50" fill="#d9f7cf" stroke="#2b9b3a"/>
+  <text x="230" y="70">Preprocessing & Augmentation</text>
+  <rect x="430" y="40" width="160" height="50" fill="#fff4bf" stroke="#c79a00"/>
+  <text x="450" y="70">MobileNetV2 Backbone</text>
+  <rect x="610" y="40" width="160" height="50" fill="#ffe0e6" stroke="#c92b3e"/>
+  <text x="630" y="70">Classification Head</text>
+  <rect x="790" y="40" width="160" height="50" fill="#e9d9ff" stroke="#6b39c7"/>
+  <text x="810" y="70">Predictions & Treatment</text>
+  <line x1="170" y1="65" x2="210" y2="65" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="390" y1="65" x2="430" y2="65" stroke="#333" stroke-width="2"/>
+  <line x1="590" y1="65" x2="610" y2="65" stroke="#333" stroke-width="2"/>
+  <line x1="770" y1="65" x2="790" y2="65" stroke="#333" stroke-width="2"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#333" />
+    </marker>
+  </defs>
+</svg>

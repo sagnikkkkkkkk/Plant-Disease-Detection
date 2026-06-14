@@ -483,3 +483,60 @@ During this internship, a complete end-to-end Deep Learning pipeline was success
 ### If you found this project useful, consider giving it a ⭐
 
 </div>
+
+---
+
+## Premium Additions (Demo, Visuals & Citation)
+
+### 🎥 GIF Demo
+
+An automated demo GIF has been generated from the training visuals. Open or embed it here:
+
+![Live demo](assets/demo.gif)
+
+### 🏗 Architecture Diagram
+
+System architecture (vector):
+
+![Architecture](assets/architecture.svg)
+
+### 📊 Visuals
+
+- Accuracy: `assets/accuracy.png`
+- Loss: `assets/loss.png`
+- Confusion matrix: `assets/confusion_matrix.png`
+- Prediction dashboard: `assets/prediction_dashboard.png`
+
+### 🔢 Model Performance
+
+Metric | Value
+:--|:--
+Training accuracy | 89.5%
+Validation accuracy | 95.0%
+Training loss | 0.31
+Validation loss | 0.17
+Number of classes | 15
+Backbone | MobileNetV2 (ImageNet pretrained)
+
+### 🔖 Badges (replace YOUR_GITHUB_USERNAME)
+
+Add these at the top of the README to show repo metadata:
+
+```
+![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/AgroVision-AI?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/AgroVision-AI?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/AgroVision-AI?style=for-the-badge)
+![License](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/AgroVision-AI?style=for-the-badge)
+```
+
+### 📑 Citation & DOI
+
+If you publish a release and archive it with Zenodo, add the DOI badge here. Example:
+
+[![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxx)
+
+Replace `10.xxxx/zenodo.xxxxx` with your Zenodo DOI after publishing a release.
+
+---
+
+If you'd like, I can replace `YOUR_GITHUB_USERNAME` across the README and push the changes, or generate a higher-resolution PNG export of the `assets/architecture.svg`.
