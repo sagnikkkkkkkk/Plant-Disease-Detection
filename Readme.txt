@@ -492,7 +492,7 @@ During this internship, a complete end-to-end Deep Learning pipeline was success
 
 An automated demo GIF has been generated from the training visuals. Open or embed it here:
 
-![Live demo](assets/demo.gif)
+![Live demo](assets/demo_nice.gif)
 
 ### 🏗 Architecture Diagram
 
