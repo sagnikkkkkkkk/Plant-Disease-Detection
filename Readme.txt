@@ -498,7 +498,7 @@ An automated demo GIF has been generated from the training visuals. Open or embe
 
 System architecture (vector):
 
-![Architecture](assets/architecture.svg)
+![Architecture](assets/architecture.png)
 
 ### 📊 Visuals
 
@@ -539,4 +539,4 @@ Replace `10.xxxx/zenodo.xxxxx` with your Zenodo DOI after publishing a release.
 
 ---
 
-If you'd like, I can replace `YOUR_GITHUB_USERNAME` across the README and push the changes, or generate a higher-resolution PNG export of the `assets/architecture.svg`.
+If you'd like, I can replace `YOUR_GITHUB_USERNAME` across the README and push the changes, or generate a higher-resolution PNG export of the `assets/architecture.png`.
